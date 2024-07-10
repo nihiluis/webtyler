@@ -41,3 +41,36 @@ And GameMaker Studio 2 Auto Tile tilesets:
 The intended bitmask for the godot output is the following:
 
 ![godot minimal bitmask](etc/out%20bitmask.png)
+
+
+## Modes
+
+The seven algorithms take these kinds of inputs, in terms of autotile bitmasks:
+
+### basic
+
+![bitmask](etc/2x1%20bitmask.png)
+
+### basic_border
+
+![bitmask](etc/2x1%20bitmask.png)
+
+### 3x3
+
+![bitmask](etc/3x3%20bitmask.png)
+
+### 3x3plus
+
+![bitmask](etc/3x3plus%20bitmask.png)
+
+### 4x4
+
+![bitmask](etc/4x4%20bitmask.png)
+
+### 4x4plus
+
+![bitmask](etc/4x4plus%20bitmask.png)
+
+### minitiles
+
+![bitmask](etc/5x1%20bitmask.png)
